@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding0;
+    box-sizing: border-box;
+}
+
+main{
+    margin: 10px 100px;
+}
+
+nav{
+    background-image: url("../img/pattern.png");
+    background-color: #4ea0ff;
+    background-repeat: repeat-x;
+    background-size:contain;
+    height:100px;
+}
+
+nav img{
+    margin-left:100px;
+    margin-top:45px;
+    width:200px;
+    height:auto;
+}
+
+header{
+    margin-bottom:10px;
+}
+
+header div{
+    color: grey;
+
+}
+
+#blue{
+    color: #4ea0ff;
+}
+
+.info{
+    font-size: 10px;
+}
+
+section{
+    margin: 20px 0px;
+}
+
+section ul{
+    margin-top:20px;
+}
