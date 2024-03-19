@@ -11,8 +11,7 @@ main{
 nav{
     background-image: url("../img/pattern.png");
     background-color: #4ea0ff;
-    background-repeat: repeat-x;
-    background-size:contain;
+    background-size:conta30%in;
     height:100px;
 }
 
@@ -46,6 +45,15 @@ section{
 
 section ul{
     margin-top:20px;
+}
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.text{
+    width:50%;
 }
 
 th{
